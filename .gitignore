@@ -1,0 +1,12 @@
+__pycache__/
+.vscode/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzw
+*.pyzwz
+.ipynb_checkpoints/
+*.pkl
